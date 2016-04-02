@@ -1,2 +1,5 @@
 # hello-world
-Just another reoopsdfijaojsdnf
+
+Hi Humans!
+
+Chris here, just running through this lovely crafted tutorial!
